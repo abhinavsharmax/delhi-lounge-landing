@@ -363,7 +363,7 @@ header.smaller #mainmenu ul ul {
 header.smaller {
   position: fixed;
   top: 0px;
-  background: var(--bg-dark-1);
+  background: var(--primary-color);
   border: none;
 }
 

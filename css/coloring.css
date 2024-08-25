@@ -215,7 +215,7 @@ address.s1 span i,
 .pricing-table.table-featured .bottom i,
 .schedule-item .sc-name
 {
-    color: var(--primary-color);
+    color: var(--primary-color-200);
 }
 
 
