@@ -1,5 +1,5 @@
  /* --------------------------------------------------
-  * © Copyright 2023 - Almaris by Designesia
+  * ©  Copyright 2024 - PolarDot
   * --------------------------------------------------*/
 (function($) {
 	'use strict';
