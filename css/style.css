@@ -21841,7 +21841,7 @@ img {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  bottom: 20px;
+  bottom: 30px;
   right: 50%;
   transform: translateX(50%);
   z-index: 1000;
@@ -21853,8 +21853,31 @@ img {
 .whatsapp-button img {
   width: 20px;
   height: 20px;
+  
 }
 .whatsapp-text {
+  color: #f8f8f8;
+  font-weight: 600;
+}
+.apply-button {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  bottom: 80px;
+  right: 50%;
+  transform: translateX(50%);
+  z-index: 1000;
+  background-color: rgba(17, 17, 17, 0.8);
+  backdrop-filter: blur(8px);
+  padding: 0.5rem 1rem;
+  border-radius: 40px;
+}
+.apply-button img {
+  width: 20px;
+  height: 20px;
+}
+.apply-text {
   color: #f8f8f8;
   font-weight: 600;
 }
